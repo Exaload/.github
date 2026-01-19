@@ -2,7 +2,6 @@
 
 ## Our rules
 
-Our main rules are simples :
 ### 1. No investors
 
 We want our members to fund their project.
@@ -20,3 +19,5 @@ We want to make sure that every person can help
 ### 3. Every idea can lead to a bigger idea
 
 Every idea, even a fragment, can be, adapted to the current world and all its surrounding factors, eventually resulting in a bigger project that will help our home planet
+
+### 4. Humanity first
