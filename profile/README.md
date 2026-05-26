@@ -18,7 +18,7 @@ Exaload est contre cette pratique immorale
 
 ### 2. Community first
 
-Nous comptons sur notre communauté. Ensemble, nous pouvons construire le futur, c'est en discutant que nous pouvons comprendre ce que chacun a besoin et c'est avec ça que nous bâtissons les fondations du monde de demain.
+Nous comptons sur notre communauté. C'est en discutant ensemble que nous pouvons comprendre ce que chacun a besoin et c'est avec ça que nous bâtissons les fondations du monde de demain.
 
 L'entièreté de notre réseau est constamment à l'écoute de nos utilisateurs : services de sondage communautaire, système de suggestions... Toutes les informations, suggestions, problèmes, n'importe, sont relus au plus rapidement par un humain. Les seuls algorithmes que nous utilisons lorsque nous recevons des messages servent à rediriger la demande vers le bon service.
 
